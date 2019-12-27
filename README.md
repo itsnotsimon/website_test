@@ -1,3 +1,6 @@
-# Website Test
-Using GitHub Pages to host test website.
-Link: https://github.com/luo-simon/website_test.git
+# My First Website
+
+*Created using HTML and CSS*
+
+Using GitHub Pages to host my first website!
+
